@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!-- 
+    1. h1 - h6
+    2. p
+    3. img
+    4. a - anchor
+    5. ul, li - unordered list, list item
+    6. table
+    7. input
+    8. button
+    9. div
+ -->
+<html>
+    <!-- Phần đầu -->
+    <head>
+        <title>F8 - Shop</title>
+        <meta charset = "utf-8">
+    </head>
+    <!-- Phần thân -->
+    <body> 
+        <div>
+       <h1>Băng tuyết lại phủ tuyết trắng, đỉnh Fansipan Sa Pha đẹp như trời Âu</h1>
+       
+       <!-- <input type = "checkbox">
+       <input type = "text"> -->
+       <input name ="mèo" type = "radio">
+       <input name ="mèo" type = "radio">
+       <input name ="mèo" type = "radio">
+
+       <button>Click me</button>
+       
+       
+       
+       
+       <p>BOKU WA SAIKYOU DA</p>
+       <img src="https://images.unsplash.com/photo-1608848461950-0fe51dfc41cb?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D" alt="Ảnh mèo">
+       <a href = "https://www.youtube.com/watch?v=TugtXZvUwRE"> Tới trang youtube</a>
+       <ul>
+              <li>Mèo béo</li>
+              <li>Mèo Mỹ</li>
+              <li>Mèo méo meo</li>
+              <li>Kamen rider</li>
+       </ul>
+       <table>
+        <thead>
+            <th>STT</th>
+            <th>Tên mèo béo</th>
+            <th>Địa chỉ</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Kevin</td>
+                <td>Japan</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Fone</td>
+                <td>America</td>
+            </tr>
+        </tbody>
+       </table>
+         </div>
+    </body>
+</html>
